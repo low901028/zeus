@@ -1,0 +1,11 @@
+# Project exclude paths
+/target/
+/zeus-app/target/
+/zeus-common/target/
+/zeus-core/target/
+/zeus-dist/target/
+/zeus-format/target/
+/zeus-ini/target/
+/zeus-spi/target/
+/zeus-units/target/
+/zeus-web/target/

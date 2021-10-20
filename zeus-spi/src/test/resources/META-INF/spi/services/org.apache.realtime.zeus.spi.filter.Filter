@@ -1,0 +1,1 @@
+default=org.apache.realtime.zeus.spi.filter.SimpleFilterImpl
